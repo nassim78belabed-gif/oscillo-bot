@@ -1,4 +1,4 @@
-# L oscillo bot — robot suiveur de ligne (SAE Concours Cachan)
+# L oscillo bot : robot suiveur de ligne (SAE Concours Cachan)
 
 Code Arduino d'un robot autonome suiveur de ligne, développé en équipe dans le cadre de la SAE robotique du BUT GEII (IUT de Vélizy-Rambouillet) pour le Concours de Cachan (juin 2026).
 
